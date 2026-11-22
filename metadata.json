@@ -1,0 +1,6 @@
+{
+  "name": "FitPulse",
+  "description": "All-in-one fitness platform featuring targeted muscle workouts, diet and nutrition plans, water and sleep tracking, weight management, progress analytics, learning center, community feed, and an AI Fitness Coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
